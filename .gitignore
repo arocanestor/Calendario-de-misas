@@ -1,3 +1,5 @@
+/backent/node_modules/
+/front/node_modules/
 # Logs
 logs
 *.log
