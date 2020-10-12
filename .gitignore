@@ -1,7 +1,6 @@
 /backent/node_modules/
 /backent/package-lock.json/
-/front/node_modules/
-/front/package-lock.json/
+
 # Logs
 logs
 *.log
